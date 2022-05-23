@@ -1,6 +1,6 @@
 const APP_ID = "18ab1d6bc7a64c3c95f2aadd32b5f861"
-const TOKEN = "00618ab1d6bc7a64c3c95f2aadd32b5f861IADS/4rLlJ1ZinwzV9qlJEj7AUmHnubuj1dfUYmH8za10vYPmiEAAAAAEABCwUE+gZWKYgEAAQCBlYpi"
-const CHANNEL = "Chatroom-For-Rez"
+const TOKEN = "00618ab1d6bc7a64c3c95f2aadd32b5f861IACPw3VoW1QgzN33Xm7sgyjK+liiVCJ6XocQo0Wpdibca/vyPvoAAAAAEAB9OJJ5b2CMYgEAAQBuYIxi"
+const CHANNEL = "CalgaryCommercial"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
